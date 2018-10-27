@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.midterm" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Barretto_Sarah-Midterm</name>
+    <description>
+        A blank PhoneGap app.
+    </description>
+    <author email="support@phonegap.com" href="http://phonegap.com">
+        PhoneGap Team
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <plugin name="cordova-plugin-battery-status" spec="1" />
+    <plugin name="cordova-plugin-geolocation" spec="^4.0.1" />
+    <plugin name="cordova-plugin-vibration" spec="^3.1.0" />
+    <plugin name="cordova-plugin-camera" spec="^4.0.3" />
+    <plugin name="cordova-plugin-vibrate-intense" spec="^1.0.1" />
+    <engine name="browser" spec="~5.0.4" />
+</widget>

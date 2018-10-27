@@ -1,0 +1,24 @@
+{
+  "name": "com.phonegap.midterm",
+  "version": "1.0.0",
+  "displayName": "Barretto_Sarah-Midterm",
+  "cordova": {
+    "platforms": [
+      "browser"
+    ],
+    "plugins": {
+      "cordova-plugin-battery-status": {},
+      "cordova-plugin-geolocation": {},
+      "cordova-plugin-vibration": {},
+      "cordova-plugin-camera": {},
+      "cordova-plugin-vibrate-intense": {}
+    }
+  },
+  "dependencies": {
+    "cordova-browser": "~5.0.4",
+    "cordova-plugin-camera": "^4.0.3",
+    "cordova-plugin-geolocation": "^4.0.1",
+    "cordova-plugin-vibrate-intense": "^1.0.1",
+    "cordova-plugin-vibration": "^3.1.0"
+  }
+}

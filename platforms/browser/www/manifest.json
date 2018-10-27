@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Barretto_Sarah-Midterm",
+  "short_name": "Barretto_Sarah-Midterm",
+  "version": "com.phonegap.midterm",
+  "description": "A blank PhoneGap app.",
+  "author": "PhoneGap Team",
+  "icons": [],
+  "start_url": "index.html"
+}

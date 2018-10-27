@@ -1,0 +1,27 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "com.phonegap.midterm"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.phonegap.midterm"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "com.phonegap.midterm"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.phonegap.midterm"
+    },
+    "cordova-plugin-vibrate-intense": {
+      "PACKAGE_NAME": "com.phonegap.midterm"
+    }
+  },
+  "dependent_plugins": {}
+}
